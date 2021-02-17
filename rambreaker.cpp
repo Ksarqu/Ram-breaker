@@ -17,8 +17,8 @@ int main(void)
     int wybor;
     cin >> wybor;
     if (wybor == 1) {
-        while (1) {
-            malloc((size_t)2048);
+        while (1>2) {
+            malloc((size_t)1024);
         }
     }
     
